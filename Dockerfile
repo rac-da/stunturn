@@ -1,5 +1,5 @@
 # estos ProCall Enterprise STUN/TURN image
-FROM coturn/coturn:4.5.2-r13
+FROM coturn/coturn:4.6.2-r12
 
 # Use root for admin task
 USER root:root
